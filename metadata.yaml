@@ -1,5 +1,8 @@
 _repo: The-growth-of-medicine-from-the-earliest-times-to-about-1800_67833
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67833-h/images/cover.jpg
 creator:
   author:
     agent_name: Buck, Albert H. (Albert Henry)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51304'
     url: http://www.gutenberg.org/2009/agents/51304
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67833#The-growth-of-medicine-from-the-earliest-times-to-about-1800
 gutenberg_issued: '2022-04-14'
 identifiers:
   gutenberg: '67833'
